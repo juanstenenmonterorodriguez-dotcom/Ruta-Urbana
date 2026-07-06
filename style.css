@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand{
+    font-size: 1.8rem;
+}
+
+.nav-link{
+    margin: 0 10px;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    color: #ff6b00 !important;
+}
+
+.btn-dark{
+    border-radius: 10px;
+    padding: 8px 20px;
+}
